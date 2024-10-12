@@ -53,7 +53,7 @@ Make sure you have the following installed on your machine:
 
 3. **Build the Docker Image**
   ```bash
-   docker build -t d-ai-lysis .
+   docker build -t d-ai-lysis 
 
 4. **Run the Application**  
    ```bash
