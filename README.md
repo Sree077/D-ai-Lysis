@@ -43,8 +43,8 @@ Make sure you have the following installed on your machine:
 
 1. **Clone the Repository**  
    ```bash
-   git clone <your-repo-url>
-   cd D-ai-Lysis
+   git clone https://github.com/Sree077/D-ai-Lysis
+   cd D-ai-Lysis ```
 
 2. **Add Your Gemini API Key**  
    ```bash
