@@ -82,6 +82,6 @@ Make sure your code adheres to the project’s coding standards and includes tes
 ## Contact Information
 For any questions or collaboration requests, feel free to reach out:
 
-- **Email**: support@d-ai-lysis.com
-- **GitHub**: [D-ai-Lysis](https://github.com/your-repo-url)
+- **Email**: sreenandankm7@gmail.com
+- **GitHub**: [Sreenandan](https://github.com/Sree077)
 
