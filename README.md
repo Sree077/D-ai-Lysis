@@ -44,7 +44,7 @@ Make sure you have the following installed on your machine:
 1. **Clone the Repository**  
    ```bash
    git clone https://github.com/Sree077/D-ai-Lysis
-   cd D-ai-Lysis ```
+   cd D-ai-Lysis 
 
 2. **Add Your Gemini API Key**  
    ```bash
@@ -53,7 +53,7 @@ Make sure you have the following installed on your machine:
 
 3. **Build the Docker Image**
   ```bash
-  docker build -t d-ai-lysis .
+   docker build -t d-ai-lysis .
 
 4. **Run the Application**  
    ```bash
